@@ -1,0 +1,10 @@
+* defvariant
+
+Variants for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fredokun/defvariant.git   |
+| commit  | 90f3602  |
+| systems | defvariant |
+|---------+-------------------------------------------|
+
